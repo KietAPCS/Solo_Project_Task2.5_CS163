@@ -1,0 +1,32 @@
+Top 10 Most Important Stops with Attributes
+---------------------------------------------
+Node 7274 with importance score: 3039335
+Attributes: route_id=112, var_id=224, timestamp=1616439549.4835837, node_type=0, latx=684974.3407338385, lngy=1191166.119567163
+-----------------------------
+Node 7275 with importance score: 3036659
+Attributes: route_id=41, var_id=82, timestamp=1616434236.0, node_type=0, latx=684644.1071123214, lngy=1191032.5515736004
+-----------------------------
+Node 1239 with importance score: 2961934
+Attributes: route_id=134, var_id=268, timestamp=1616401965.0, node_type=0, latx=676183.7206240247, lngy=1199440.6738810192
+-----------------------------
+Node 174 with importance score: 2821501
+Attributes: route_id=44, var_id=88, timestamp=1616417523.0, node_type=0, latx=677979.8426367117, lngy=1196920.2762858847
+-----------------------------
+Node 169 with importance score: 2768236
+Attributes: route_id=102, var_id=204, timestamp=1616427237.436184, node_type=0, latx=677543.9559074126, lngy=1197352.1095361533
+-----------------------------
+Node 7273 with importance score: 2602078
+Attributes: route_id=40, var_id=80, timestamp=1616427694.0, node_type=0, latx=685241.7928444009, lngy=1191279.5432310286
+-----------------------------
+Node 27 with importance score: 2515721
+Attributes: route_id=128, var_id=255, timestamp=1616400733.0, node_type=0, latx=685232.5788972073, lngy=1190987.7941414928
+-----------------------------
+Node 1115 with importance score: 2369526
+Attributes: route_id=20, var_id=39, timestamp=1616415066.0, node_type=0, latx=676182.8127482217, lngy=1199508.8068768429
+-----------------------------
+Node 35 with importance score: 2305607
+Attributes: route_id=48, var_id=96, timestamp=1616431877.866426, node_type=1, latx=684523.693166831, lngy=1190911.8682502334
+-----------------------------
+Node 7276 with importance score: 2304752
+Attributes: route_id=67, var_id=134, timestamp=1616390949.5649693, node_type=0, latx=684696.3966355482, lngy=1190912.1567126731
+-----------------------------
